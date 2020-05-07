@@ -1,0 +1,3 @@
+[submodule "samples/thesis/firmware/C-Step-Counter"]
+	path = samples/thesis/firmware/C-Step-Counter
+	url = https://github.com/MarcusNordstrom/C-Step-Counter.git
